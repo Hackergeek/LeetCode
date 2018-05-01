@@ -18,3 +18,5 @@ public int uniqueMorseRepresentations(String[] words) {
     return seen.size();
 }
 ```
+
+这种解法没啥好说的，利用了集合中的元素不可重复的特性。

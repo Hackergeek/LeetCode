@@ -18,11 +18,16 @@ public int numJewelsInStones(String J, String S) {
 }
 ```
 
-除了这种常规解法之外，我在讨论区还看到另外两种解法。
+这种解法的时间复杂度为O(n^2)。除了这种解法之外，还有一种更优的解法，我称之为查表法。
 
-## 较优解法
+## 查表法
 
 [参考链接][1]
+
+解题思路：
+
+1. 建表
+2. 查表
 
 ```java
 public int numJewelsInStones(String jewels, String stones) {
@@ -39,6 +44,8 @@ return (jewel >= 'A' && jewel <='Z')
         : jewel-'a';
 }
 ```
+
+查表法的时间复杂度为O(n)，明显比上一种解法更快。
 
 ## 一行代码解法
 
