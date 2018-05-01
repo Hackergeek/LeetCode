@@ -1,6 +1,4 @@
-# LeetCode刷题系列：Unique Morse Code Words(804)
-
-***刷题顺序：从易到难***
+# LeetCode刷题系列（二）：Unique Morse Code Words(804)
 
 ## 常规解法
 
