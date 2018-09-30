@@ -1,7 +1,5 @@
 # LeetCode刷题系列
 
-刷题顺序：从易到难
-
 **[LeetCode刷题系列（一）:Jewels and Stones(771)][1]**
 
 **[LeetCode刷题系列（二）：Unique Morse Code Words(804)][2]**

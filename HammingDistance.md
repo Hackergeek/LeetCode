@@ -1,5 +1,6 @@
 # LeetCode刷题系列（三）：Hamming Distance(804)
 
+[题目链接][2]
 ## 常规解法
 
 解题思路：
@@ -34,3 +35,4 @@ public class Solution {
 ```
 
 [1]: https://leetcode.com/problems/hamming-distance/discuss/94698/Java-1-Line-Solution-:D "Hamming Distance 一行代码解法"
+[2]:https://leetcode.com/problems/hamming-distance/description/ "题目链接"

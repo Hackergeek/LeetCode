@@ -1,5 +1,6 @@
 # LeetCode刷题系列（二）：Unique Morse Code Words(804)
 
+[题目链接][1]
 ## 常规解法
 
 ```java
@@ -19,4 +20,6 @@ public int uniqueMorseRepresentations(String[] words) {
 }
 ```
 
-这种解法没啥好说的，利用了集合中的元素不可重复的特性。
+这种解法利用了集合中的元素不可重复的特性。
+
+[1]:https://leetcode.com/problems/unique-morse-code-words/description/ "题目链接"
