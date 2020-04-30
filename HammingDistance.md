@@ -1,4 +1,4 @@
-# LeetCode刷题系列（三）：Hamming Distance(804)
+# LeetCode刷题系列（三）：Hamming Distance(461)
 
 [题目链接][2]
 ## 常规解法
